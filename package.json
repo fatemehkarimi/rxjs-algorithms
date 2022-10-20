@@ -1,0 +1,12 @@
+{
+  "name": "rxjs-algorithms",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:fatemehkarimi/rxjs-algorithms.git",
+  "author": "fatemeh karimi <fatemehkarimi.001101@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "rxjs": "^7.5.7",
+    "typescript": "^4.8.4"
+  }
+}
